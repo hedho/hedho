@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Not yet.
 - 🤔 I’m looking for help with making learning documentation better !
 - 💬 Ask me about ... anything basically
-- 📫 How to reach me: arianitkukaj@gmail.com  
+- 📫 How to reach me: arianit@hax.al
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... The fun !
 
