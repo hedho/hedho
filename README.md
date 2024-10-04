@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a learning documentation site for German Language.
-- 🌱 I’m currently learning Deutsch, Ja :)
-- 👯 I’m looking to collaborate on ... Not yet.
-- 🤔 I’m looking for help with making learning documentation better !
+- 🔭 I’m currently working on personalized OpenBSD Scripting for managing Mailing system.
+- 🌱 I’m currently hosting a XMPP server for more https://chat.hax.al :)
+- 👯 I’m looking to collaborate on https://chat.hax.al xmpp server.
+- 🤔 I’m looking for help with making this xmpp server as much educative and informative possible !
 - 💬 Ask me about ... anything basically
-- 📫 How to reach me: arianit@hax.al
-- 😄 Pronouns: ...
+- 📫 How to reach me: polymath@hax.al
 - ⚡ Fun fact: ... The fun !
 
