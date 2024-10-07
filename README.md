@@ -8,3 +8,4 @@
 - 📫 How to reach me: polymath@hax.al
 - ⚡ Fun fact: ... The fun !
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=hedho&show_icons=true&locale=en&theme=tokyonight" alt="Polymath" /></p>
